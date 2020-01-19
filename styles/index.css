@@ -1,0 +1,48 @@
+header{
+    background: rgb(158, 135, 135);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+section{
+    background: gray;
+    text-align: center;   
+}
+footer{
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(-20deg, #ddd6f3 0%, #faaca8 100%, #faaca8 100%);
+   margin: 0;
+   padding: 0;
+}
+h1{
+   color: #DDDDDD;
+   background: rgb(44, 42, 42);
+   font-family: 'Rouge Script', cursive ;
+}
+h2{
+   color: #DDDDDD;
+   
+   font-family: 'Courier New', Courier, monospace ;
+}
+h3{
+   color: #7FDBFF;
+}
+
+button{
+padding: 10px 15px;
+font-size: 15px;
+text-align: center;
+cursor: pointer;
+outline: none;
+color: black;
+background-image: linear-gradient(to top, #c79081 0%, #dfa579 100%);
+border-radius: 10px;
+box-shadow: 0 5px gray;
+}

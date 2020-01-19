@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background-position: center;
+    font-family: fantasy;
+}
+.Form-title h1{
+    font-size: 32px;
+}
+.form-control{
+    width: 600px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
